@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Calculator Test Suite">
+    <test name="All Tests">
+        <classes>
+            <class name="com.example.FactorialCalculatorTest"/>
+            <class name="com.example.TriangleAreaCalculatorTest"/>
+            <class name="com.example.ArithmeticCalculatorTest"/>
+            <class name="com.example.NumberComparatorTest"/>
+        </classes>
+    </test>
+</suite>
