@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8cad45d-e50d-4203-ab87-4970dc363642" name="Changes" comment="Lesson 2.6: Student and PhoneDirectory homework" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_7_junit_5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;odv72&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/odv72/java-auto-tasks.git&quot;,
+    &quot;accountId&quot;: &quot;1c34a0e9-4cac-49c7-bd18-a21463c49a9d&quot;
+  }
+}</component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FtK5jLboIyORLL0bPWuE1TXwuH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HomeWorkApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ParkDemo.executor": "Run",
+    "Application.PhoneDirectory.executor": "Run",
+    "Application.ProductArrayDemo.executor": "Run",
+    "Application.StudentManager.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "Lesson__7__testng",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/JavaHomework/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PhoneDirectory">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Main" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParkDemo" />
+      <module name="JavaHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.PhoneDirectory" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductArrayDemo" />
+      <module name="JavaHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.StudentManager" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentManager" />
+        <item itemvalue="Application.ProductArrayDemo" />
+        <item itemvalue="Application.PhoneDirectory" />
+        <item itemvalue="Application.ParkDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cad45d-e50d-4203-ab87-4970dc363642" name="Changes" comment="" />
+      <created>1782888750660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782888750660</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Домашнее задание 2.2">
+      <option name="closed" value="true" />
+      <created>1782911731551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782911731551</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Создан класс Product с полями: название, дата производства, производитель, страна происхождения, цена, статус бронирования. Добавлен метод displayInfo() для вывода информации в консоль.">
+      <option name="closed" value="true" />
+      <created>1783408932274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783408932274</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: реализовать обработку исключений для массива 4x4&#10;&#10;- Добавлены пользовательские исключения&#10;- Реализован метод processArray&#10;- Добавлена демонстрация ArrayIndexOutOfBoundsException&#10;- Удален HomeWorkApp.java (не относится к заданию)">
+      <option name="closed" value="true" />
+      <created>1784208241892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784208241892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Lesson_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Домашнее задание 2.2" />
+    <MESSAGE value="Создан класс Product с полями: название, дата производства, производитель, страна происхождения, цена, статус бронирования. Добавлен метод displayInfo() для вывода информации в консоль." />
+    <MESSAGE value="Задание 2.3: Добавлены классы ProductArrayDemo, Park и ParkDemo" />
+    <MESSAGE value="Задание 2.5" />
+    <MESSAGE value="feat: реализовать обработку исключений для массива 4x4&#10;&#10;- Добавлены пользовательские исключения&#10;- Реализован метод processArray&#10;- Добавлена демонстрация ArrayIndexOutOfBoundsException&#10;- Удален HomeWorkApp.java (не относится к заданию)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: реализовать обработку исключений для массива 4x4&#10;&#10;- Добавлены пользовательские исключения&#10;- Реализован метод processArray&#10;- Добавлена демонстрация ArrayIndexOutOfBoundsException&#10;- Удален HomeWorkApp.java (не относится к заданию)" />
+  </component>
+</project>
